@@ -10,13 +10,14 @@
 
 This project is to refactor code for Horiseon Website. This consists of changing existing code without changing the functionality. Improving the website with simplicity in order to optimize their search engines.  
 
-### Corrections  
+### Fulfillment
+*   
 
  
 
 - - -   
 
-### Image  
+### Usage  
 
 Horiseon Homepage  
 
@@ -28,6 +29,6 @@ Horiseon Homepage
 
 The url of deployed application  
 
-[Horiseon Website](http://www.website)  
+[Horiseon Website](https://bvenant.github.io/horiseon/)  
 
-[Horiseon repository](http://www.website)  
+[Horiseon repository](https://github.com/bvenant/horiseon.git)  

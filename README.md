@@ -20,7 +20,7 @@ This project is to refactor code for Horiseon Website. This consists of changing
 
 ### Usage  
 
-Horiseon Homepage  
+![Alt Horiseon Homepage] (./Downloads/horiseon.png)  
 
  
 
